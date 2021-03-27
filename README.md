@@ -1,6 +1,6 @@
 # Hi there, I'm Nugroho - [nugrohosam][website] 👋
 
--   🌱 I’m currently learning **Sofware Engineer**
+-   🌱 I’m currently doing as **Sofware Engineer**
 -   👨‍💻 All of my projects are available at **[nugrohosamiyono.com](https://nugrohosamiyono.com)**
 -   📫 How to reach me **nugrohosamiyono@gmail.com**
 -   👻 **npx** nugrohosam
