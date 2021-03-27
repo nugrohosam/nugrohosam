@@ -16,7 +16,7 @@ const data = {
   name: chalk.bold.blue("Nugroho Samiyono"),
   nickname: chalk.bold("nugrohosam"),
 
-  web: chalk.green("https://nugrohosam.com    "),
+  web: chalk.green("https://nugrohosamiyono.com    "),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~nugrohosam"),
   github: chalk.gray("https://github.com/") + chalk.white("nugrohosam"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("nugroho-samiyono"),
