@@ -27,12 +27,7 @@
 
 ## 🚀 Github Stats
 
-<details>
-  <summary>:zap: Expand Me</summary>
-
 ![nugrohosam's github stats](https://github-readme-stats.vercel.app/api?username=nugrohosam&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "nugrohosam's github stats")
-
-</details>
 
 [website]: https://nugrohosamiyono.com
 [steam]: https://steamcommunity.com/id/nugsam
