@@ -113,7 +113,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 [website]: https://nugrohosamiyono.com
 [twitter]: https://twitter.com/nugrohosam
-[steam]: https://steamcommunity.com/id/nugrohosam
+[steam]: https://steamcommunity.com/id/nugroho_sam
 [instagram]: https://instagram.com/nugrohosam
 [linkedin]: https://linkedin.com/in/nugrohosam
 [facebook]: https://www.facebook.com/nugrohosam
