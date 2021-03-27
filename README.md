@@ -32,24 +32,6 @@
 
 ![nugrohosam's github stats](https://github-readme-stats.vercel.app/api?username=nugrohosam&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "nugrohosam's github stats")
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 118 Contributions in the Year 2021
- > 
-> 📦 406.4 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 42 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-
-<!--END_SECTION:waka-->
-
 </details>
 
 [website]: https://nugrohosamiyono.com
