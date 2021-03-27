@@ -1,7 +1,7 @@
 {
-  "name": "adityacprtm",
+  "name": "nugrohosam",
   "version": "1.2.3",
-  "description": "A personal npm card for Aditya Chamim Pratama (@adityacprtm)",
+  "description": "A personal npm card for Aditya Chamim Pratama (@nugrohosam)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -11,7 +11,7 @@
     "npm": ">=6.0.0"
   },
   "bin": {
-    "adityacprtm": "index.js"
+    "nugrohosam": "index.js"
   },
   "keywords": [
     "npm",
@@ -20,7 +20,7 @@
     "javascript",
     "npx card"
   ],
-  "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://adityacprtm.dev/)",
+  "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://nugrohosam.com/)",
   "license": "ISC",
   "dependencies": {
     "boxen": "^5.0.0",
@@ -31,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Adityacprtm/Adityacprtm.git"
+    "url": "https://github.com/nugrohosam/nugrohosam.git"
   }
 }

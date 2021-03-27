@@ -1,15 +1,15 @@
-# Hi there, I'm Aditya - [Adityacprtm][website] 👋
+# Hi there, I'm Aditya - [nugrohosam][website] 👋
 
 -   🌱 I’m currently learning **DevOps** and **SRE**
--   👨‍💻 All of my projects are available at **[adityacprtm.dev](https://adityacprtm.dev)**
--   📝 I regulary write articles on **[my blog](https://adityacprtm.dev/blog)**
+-   👨‍💻 All of my projects are available at **[nugrohosam.com](https://nugrohosam.com)**
+-   📝 I regulary write articles on **[my blog](https://nugrohosam.com/blog)**
 -   📫 How to reach me **pratamaditya7@gmail.com**
--   👻 **npx** adityacprtm
+-   👻 **npx** nugrohosam
 -   ⚡ Fun fact **pevita lovers** 💘
 
 ## 😎 Connect with me:
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)](https://adityacprtm.dev)
+[![Website](https://img.shields.io/website?label=nugrohosam.com&style=for-the-badge&url=https%3A%2F%2Fnugrohosam.com)](https://nugrohosam.com)
 [![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
@@ -18,7 +18,7 @@
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://spotify-now-playing.adityacprtm.vercel.app/api/spotify)](https://open.spotify.com/user/pratamaditya7)
+[![Spotify](https://spotify-now-playing.nugrohosam.vercel.app/api/spotify)](https://open.spotify.com/user/pratamaditya7)
 
 ## 👨‍💻 Languages and Tools:
 
@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: Expand Me</summary>
 
-![Adityacprtm's github stats](https://github-readme-stats.vercel.app/api?username=adityacprtm&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "Adityacprtm's github stats")
+![nugrohosam's github stats](https://github-readme-stats.vercel.app/api?username=nugrohosam&show_icons=true&hide_border=true&hide=contribs,prs&theme=dark "nugrohosam's github stats")
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
@@ -112,9 +112,9 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 </details>
 
-[website]: https://adityacprtm.dev
-[twitter]: https://twitter.com/adityacprtm
-[steam]: https://steamcommunity.com/id/adityacprtm
-[instagram]: https://instagram.com/adityacprtm
-[linkedin]: https://linkedin.com/in/adityacprtm
-[facebook]: https://www.facebook.com/adityacprtm
+[website]: https://nugrohosam.com
+[twitter]: https://twitter.com/nugrohosam
+[steam]: https://steamcommunity.com/id/nugrohosam
+[instagram]: https://instagram.com/nugrohosam
+[linkedin]: https://linkedin.com/in/nugrohosam
+[facebook]: https://www.facebook.com/nugrohosam
