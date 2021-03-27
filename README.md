@@ -1,9 +1,9 @@
-# Hi there, I'm Aditya - [nugrohosam][website] 👋
+# Hi there, I'm Nugroho - [nugrohosam][website] 👋
 
 -   🌱 I’m currently learning **DevOps** and **SRE**
 -   👨‍💻 All of my projects are available at **[nugrohosam.com](https://nugrohosam.com)**
 -   📝 I regulary write articles on **[my blog](https://nugrohosam.com/blog)**
--   📫 How to reach me **pratamaditya7@gmail.com**
+-   📫 How to reach me **nugrohosamiyono@gmail.com**
 -   👻 **npx** nugrohosam
 -   ⚡ Fun fact **pevita lovers** 💘
 
@@ -18,7 +18,7 @@
 
 ## 🎧 Spotify Playing
 
-[![Spotify](https://spotify-now-playing.nugrohosam.vercel.app/api/spotify)](https://open.spotify.com/user/pratamaditya7)
+[![Spotify](https://spotify-now-playing.nugrohosam.vercel.app/api/spotify)](https://open.spotify.com/user/nugrohosamiyono)
 
 ## 👨‍💻 Languages and Tools:
 

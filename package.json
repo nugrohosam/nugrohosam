@@ -20,7 +20,7 @@
     "javascript",
     "npx card"
   ],
-  "author": "Aditya Pratama <pratamaditya7@gmail.com> (https://nugrohosam.com/)",
+  "author": "Nugroho Samiyono <nugrohosamiyono@gmail.com> (https://nugrohosam.com/)",
   "license": "ISC",
   "dependencies": {
     "boxen": "^5.0.0",
