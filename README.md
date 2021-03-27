@@ -53,7 +53,7 @@
 </details>
 
 [website]: https://nugrohosamiyono.com
-[steam]: https://steamcommunity.com/id/nugroho_sam
+[steam]: https://steamcommunity.com/id/nugsam
 [instagram]: https://instagram.com/nugrohosam
 [linkedin]: https://linkedin.com/in/nugroho-samiyono
 [facebook]: https://www.facebook.com/nugroho.samiyono
