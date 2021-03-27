@@ -8,6 +8,7 @@
 ## 😎 Connect with me:
 
 [![Website](https://img.shields.io/website?label=nugrohosamiyono.com&style=for-the-badge&url=https%3A%2F%2Fnugrohosamiyono.com)](https://nugrohosamiyono.com)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)][facebook]
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)][steam]
