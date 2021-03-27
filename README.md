@@ -1,6 +1,6 @@
 # Hi there, I'm Nugroho - [nugrohosam][website] 👋
 
--   🌱 I’m currently learning **DevOps** and **SRE**
+-   🌱 I’m currently learning **Sofware Engineer**
 -   👨‍💻 All of my projects are available at **[nugrohosamiyono.com](https://nugrohosamiyono.com)**
 -   📝 I regulary write articles on **[my blog](https://nugrohosamiyono.com/blog)**
 -   📫 How to reach me **nugrohosamiyono@gmail.com**
