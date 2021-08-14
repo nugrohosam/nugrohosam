@@ -1,4 +1,4 @@
-# Hi there, I'm Nugroho - [nugrohosam][website] 👋
+# Hi there, I'm [Nugroho][website] 👋
 
 -   🌱 I’m currently doing as **Sofware Engineer**
 -   👨‍💻 All of my projects are available at **[here](https://github.com/nugrohosam?tab=repositories)**
