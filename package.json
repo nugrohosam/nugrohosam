@@ -23,7 +23,7 @@
   "author": "Nugroho Samiyono <nugrohosamiyono@gmail.com> (https://nugrohosamiyono.com/)",
   "license": "ISC",
   "dependencies": {
-    "boxen": "^5.0.0",
+    "boxen": "^5.1.2",
     "chalk": "^4.1.0",
     "clear": "^0.1.0",
     "inquirer": "^8.0.0",
